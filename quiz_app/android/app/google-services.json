@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484328854889",
+    "project_id": "fireship-quizapp-25920",
+    "storage_bucket": "fireship-quizapp-25920.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484328854889:android:1f781ce6b0b411125259f8",
+        "android_client_info": {
+          "package_name": "demo.test.quiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484328854889-34fm1jtnl0glmm78r0ga3getksk2kfqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtnjaYNkHSITN380Br2nT-sfC_AVEgSTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484328854889-34fm1jtnl0glmm78r0ga3getksk2kfqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
